@@ -54,24 +54,20 @@ $ cat status.txt
 
 </div>
 
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║  #   TOPIC                     STATUS            PHASE          ║
- ╠══════════════════════════════════════════════════════════════════╣
- ║  1   Linux & Bash              ✅ Comfortable     Phase 0       ║
- ║  2   Networking fundamentals   🔄 In progress     Phase 0       ║
- ║  3   Git & GitHub              ✅ Comfortable     Phase 1       ║
- ║  4   Python scripting          ✅ Already knew    Phase 1       ║
- ║  5   Docker & Compose          🔄 Currently here  Phase 2  ◄── ║
- ║  6   CI/CD — GitHub Actions    ⏳ Up next         Phase 3       ║
- ║  7   Kubernetes                ⏳ Coming          Phase 4       ║
- ║  8   Cloud — AWS               ⏳ Coming          Phase 5       ║
- ║  9   Terraform / Ansible       ⏳ Future          Phase 6       ║
- ║  10  Prometheus / Grafana      ⏳ Future          Phase 7       ║
- ╚══════════════════════════════════════════════════════════════════╝
+| Status | Topic | Phase |
+|:---:|---|:---:|
+| ✅ | Linux & Bash | 0 |
+| 🔄 | Networking fundamentals | 0 |
+| ✅ | Git & GitHub | 1 |
+| ✅ | Python scripting | 1 |
+| **🔄** | **Docker & Compose ← here now** | **2** |
+| ⏳ | CI/CD — GitHub Actions | 3 |
+| ⏳ | Kubernetes | 4 |
+| ⏳ | Cloud — AWS | 5 |
+| ⏳ | Terraform / Ansible | 6 |
+| ⏳ | Prometheus / Grafana | 7 |
 
-  ✅ done    🔄 active now    ⏳ queued
-```
+`✅ done` &nbsp; `🔄 in progress` &nbsp; `⏳ queued`
 
 ---
 
