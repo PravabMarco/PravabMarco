@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="Prabhav Basukala — DevOps Learner" />
-</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0F2744,100:1a0533&height=200&section=header&text=Prabhav%20Basukala&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=Web%20Dev%20%E2%86%92%20DevOps%20%7C%20Kathmandu%2C%20Nepal&descSize=18&descFontColor=8B949E&descAlignY=60&animation=fadeIn" alt="header" />
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Currently+learning+Docker+%F0%9F%90%B3;Linux+%C2%B7+Bash+%C2%B7+Networking+%C2%B7+CI%2FCD;Building+in+public+%E2%80%94+one+commit+at+a+time+%F0%9F%9A%80;Web+Dev+%E2%86%92+DevOps+%7C+Kathmandu%2C+Nepal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Currently+learning+Docker+%F0%9F%90%B3;Linux+%C2%B7+Bash+%C2%B7+Networking+%C2%B7+CI%2FCD;Building+in+public+one+commit+at+a+time;Web+Dev+%E2%86%92+DevOps+%7C+Kathmandu+Nepal)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,13 +14,11 @@
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/PravabMarco?style=flat-square&color=BC8CFF&label=Followers&logo=github)](https://github.com/PravabMarco?tab=followers)
 &nbsp;
-[![Stars](https://img.shields.io/github/stars/PravabMarco?style=flat-square&color=39D353&label=Total+Stars&logo=github)](https://github.com/PravabMarco)
+[![Stars](https://img.shields.io/github/stars/PravabMarco?style=flat-square&color=39D353&label=Stars&logo=github)](https://github.com/PravabMarco)
 
 </div>
 
 ---
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding" />
 
 ## 👋 Hey, I'm Prabhav
 
@@ -35,21 +33,19 @@ $ whoami
   prabhav_basukala
 
 $ cat status.txt
-  Currently: Learning Docker + Linux
+  Currently : Learning Docker + Linux
   Background: Python · Django · TypeScript · HTML
-  Location: Kathmandu, Nepal
-  Goal: Junior DevOps role in ~12 months
-  Open to: collab · feedback · connecting
+  Location  : Kathmandu, Nepal
+  Goal      : Junior DevOps role in ~12 months
+  Open to   : collab · feedback · connecting
 ```
-
-<br clear="right"/>
 
 ---
 
 ## 🗺️ Roadmap
 
 | | Topic | Phase | Status |
-|---|---|:---:|---|
+|:---:|---|:---:|---|
 | ✅ | Linux & Bash | 0 | Done |
 | ✅ | Git & GitHub | 1 | Done |
 | ✅ | Python scripting | 1 | Done |
@@ -159,7 +155,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Then go to **Settings → Actions → General → Workflow permissions → Read and write → Save**, then run the workflow once manually.
+**Settings → Actions → General → Workflow permissions → Read and write → Save**, then run the workflow once manually.
 
 </details>
 
@@ -178,10 +174,10 @@ Then go to **Settings → Actions → General → Workflow permissions → Read 
 
 ## 🧠 How I Learn
 
-```bash
-daily:   watch concept → build it immediately → commit something
-weekly:  read one engineering blog · update roadmap · write what confused me
-never:   watch without building · skip error messages · Google before reading docs
+```
+daily  →  watch concept  →  build it immediately  →  commit something
+weekly →  read one engineering blog  ·  update roadmap  ·  write what confused me
+never  →  watch without building  ·  skip error messages  ·  Google before docs
 ```
 
 ---
@@ -205,7 +201,7 @@ never:   watch without building · skip error messages · Google before reading 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhav-basukala)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PravabMarco)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PravabMarco)
 &nbsp;
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to)
 
@@ -215,6 +211,6 @@ never:   watch without building · skip error messages · Google before reading 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F1B2D,100:131A27&height=100&section=footer&text=Building+in+public+%E2%80%94+one+commit+at+a+time&fontSize=16&fontColor=58A6FF&fontAlignY=65&animation=twinkling" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0F2744,100:1a0533&height=100&section=footer&text=Building+in+public+%E2%80%94+one+commit+at+a+time&fontSize=14&fontColor=58A6FF&fontAlignY=65&animation=twinkling" alt="footer" />
 
 </div>
